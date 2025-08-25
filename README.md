@@ -1,0 +1,1 @@
+HireHub is a full-stack job portal designed to simplify the job search and hiring process. With role-based access, real-time updates, and a responsive UI, it connects recruiters and job seekers in a seamless hiring ecosystem.
